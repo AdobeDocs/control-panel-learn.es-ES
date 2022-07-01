@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d8e46d229f689ce3d2f6dd7bcf52c6c7eefaf4be
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 86%
+source-wordcount: '122'
+ht-degree: 81%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 86%
 
 + [Panel de control de Campaign](/help/control-panel-overview.md)
 + [Introducción al Panel de control de Campaign](/help/get-started-with-control-panel.md)
++ [Panel de control de Campaign para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/sftp-management/monitor-server-capacity.md)
    + [rangos de IP de lista de permitidos](/help/sftp-management/allowlist-ip-range.md)
