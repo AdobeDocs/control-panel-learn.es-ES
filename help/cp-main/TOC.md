@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 81%
 + [Panel de control de Campaign para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/sftp-management/monitor-server-capacity.md)
-   + [rangos de IP de lista de permitidos](/help/sftp-management/allowlist-ip-range.md)
+   + [Incluir en la lista de permitidos rangos de IP](/help/sftp-management/allowlist-ip-range.md)
    + [Generación de una clave SSH](/help/sftp-management/generate-ssh-key.md)
    + [Conexión a un servidor SFTP](/help/sftp-management/connect-to-sftp-server.md)
 + Subdominios y certificados {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [Añadir certificados SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Administración de registros TXT de Google](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Configuración de instancias {#instance-settings}
-   + [Direcciones IP de lista de permitidos](/help/instance-settings/allowlist-ip-adresses.md)
+   + [Incluir en la lista de permitidos direcciones IP](/help/instance-settings/allowlist-ip-adresses.md)
    + [Adición de permisos de URL](/help/instance-settings/add-url-permissions.md)
    + Administración de claves GPG {#gpg-key-management}
       + [Administración de claves GPG: información general](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + Supervisión del rendimiento {#performance-monitoring}
    + [Monitorización de bases de datos](/help/performance-monitoring/monitor-databases.md)
    + [Monitorización de flujos de trabajo](/help/performance-monitoring/monitor-workflows.md)
-   + [Monitorización de las entradas y la latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Panel de control de Campaign de resolución de problemas](/help/trouble-shooting.md)
+   + [Monitorización de rendimiento y latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [Solución de problemas del Panel de control de Campaign](/help/trouble-shooting.md)
