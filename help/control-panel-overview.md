@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ El Panel de control de Adobe Campaign permite a los administradores de Adobe Cam
 
 * **[Monitorización de flujos de trabajo](/help/performance-monitoring/monitor-workflows.md)**
 
-   *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde configurar la configuración del flujo de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
+   *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde realizar la configuración del flujo de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
 
-* **[Monitorización de las entradas y la latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[Monitorización de rendimiento y latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *Obtenga información sobre cómo monitorizar las entradas de envíos y las latencias de mensajes transaccionales de la instancia de campaign.*
+   *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
 Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
 
