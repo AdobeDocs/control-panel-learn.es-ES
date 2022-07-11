@@ -9,13 +9,13 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 12080c860dd3102389e6cbe9a15fa273f0f80ccb
-workflow-type: tm+mt
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
+source-git-commit: 2ae9b94ed0fe87fa2919b9a051e0ef4a80a1566b
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Panel de control de Campaign para modelos de alojamiento híbridos
 
@@ -23,4 +23,4 @@ Obtenga información sobre cómo habilitar el Panel de control de Campaign para 
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html).
+Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html?lang=es).
