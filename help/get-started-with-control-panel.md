@@ -12,18 +12,18 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Introducción a [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es#v7-restrictions)
 
-[!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar la variable [!DNL SFTP] almacenamiento por instancia, administrar [!DNL GPG] teclas, o [!UICONTROL subdomains] y [!UICONTROL certificates].
+[!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas de gestión, como administrar el almacenamiento [!DNL SFTP] por instancia, o las claves [!DNL GPG], los [!UICONTROL subdomains] y los [!UICONTROL certificates].
 
 Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con este.
 
@@ -59,4 +59,4 @@ En el siguiente vídeo se explica cómo añadir un administrador a una instancia
 
 [Más información](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel) acerca de la administración de permisos.
 
-Consulte la [Centro de ayuda de Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) para obtener recursos adicionales.
+Consulte el [Centro de ayuda del Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) para obtener recursos adicionales.
