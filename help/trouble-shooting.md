@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -54,7 +54,7 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 ### Documentación útil
 
 * [Descubra el panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
-* [Administración de permisos para [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Administración de permisos para [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Establecimiento de la conexión con el servidor SFTP (cliente o API)
 
@@ -66,4 +66,4 @@ La conexión a los servidores SFTP requiere lo siguiente:
 
 ### Documentación útil {#helpful-docs}
 
-* [Inicio de sesión en el servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Inicio de sesión en el servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

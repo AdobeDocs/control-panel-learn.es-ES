@@ -1,5 +1,5 @@
 ---
-title: Direcciones IP de lista de permitidos
+title: Incluir en la lista de permitidos direcciones IP
 description: Obtenga información sobre cómo añadir un rango IP a las listas de permitidos de instancias de Adobe Campaign y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
 feature: Control Panel
 kt: 3479
@@ -13,11 +13,11 @@ exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 59%
+ht-degree: 62%
 
 ---
 
-# Direcciones IP de lista de permitidos
+# Incluir en la lista de permitidos direcciones IP
 
 El Panel de control de Campaign le permite configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, una instancia de Adobe Campaign no es accesible desde varias direcciones IP. Por lo tanto, una dirección IP debe estar incluida en la lista de permitidos:
 
