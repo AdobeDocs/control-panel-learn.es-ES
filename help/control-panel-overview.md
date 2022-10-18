@@ -9,8 +9,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -19,6 +19,8 @@ ht-degree: 100%
 # Información general del Panel de control de Campaign
 
 El Panel de control de Adobe Campaign permite a los administradores de Adobe Campaign monitorizar los recursos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
+
+<div id="whats-new-section">
 
 ## Novedades
 
@@ -35,6 +37,17 @@ El Panel de control de Adobe Campaign permite a los administradores de Adobe Cam
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
 Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Nuestra selección
 
@@ -81,6 +94,8 @@ Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/cont
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Recursos adicionales
 
