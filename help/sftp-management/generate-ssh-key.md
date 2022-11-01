@@ -2,7 +2,7 @@
 title: Generación de una clave SSH
 description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
 feature: Control Panel
-kt: 6348
+kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 82%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
