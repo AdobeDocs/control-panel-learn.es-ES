@@ -1,6 +1,6 @@
 ---
-title: Lista de permitidos de un rango IP
-description: Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
+title: Lista de permitidos de un intervalo IP
+description: Descubra cómo puede agregar un intervalo de direcciones IP a la lista de permitidos.
 feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Lista de permitidos de un rango IP
+# Lista de permitidos de un intervalo IP
 
-Para conectarse a un servidor a través de una aplicación cliente o una API, debe configurar una clave SSH pública y agregar la dirección IP que se conecte al servidor SFTP a la lista de permitidos.
+Para conectarse a un servidor a través de una aplicación cliente o una API, debe configurar una clave SSH pública y añadir a la lista de permitidos la dirección IP que se conecta al servidor SFTP.
 
-Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
+Descubra cómo puede agregar un intervalo de direcciones IP a la lista de permitidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)

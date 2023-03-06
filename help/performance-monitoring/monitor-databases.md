@@ -20,9 +20,9 @@ ht-degree: 43%
 
 # Monitorización de bases de datos
 
-Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
+Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. Si la base de datos alcanza su capacidad máxima, puede haber problemas con la instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
 
-Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias con el [!DNL Control Panel].
+Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias con [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 

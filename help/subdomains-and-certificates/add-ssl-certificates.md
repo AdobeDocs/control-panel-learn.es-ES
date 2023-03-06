@@ -1,6 +1,6 @@
 ---
 title: Añadir certificados SSL
-description: Aprenda a añadir certificados SSL para proteger los subdominios.
+description: Obtenga información sobre cómo añadir certificados SSL para proteger los subdominios.
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -36,7 +36,7 @@ Para añadir los certificados SSL se requieren tres pasos:
 
 ### 1. Generar solicitudes de firma de certificado.
 
-La solicitud de firma de certificado (CSR) es necesaria para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
+Se requiere la solicitud de firma de certificado (CSR) para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
 
 En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el panel de control de Campaign.
 
@@ -58,7 +58,7 @@ En el siguiente vídeo se describe cómo generar una solicitud de firma de certi
 
 ### 2. Comprar certificados SSL
 
-Después de obtener la CSR, debe adquirir el certificado SSL de una entidad emisora de certificados aprobada por su organización.
+Después de obtener el CSR, debe adquirir el certificado SSL de una autoridad de certificación aprobada por su organización.
 
 ### 3. Instalar certificados SSL
 

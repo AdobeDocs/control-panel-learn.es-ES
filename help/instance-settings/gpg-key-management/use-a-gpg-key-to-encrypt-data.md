@@ -1,6 +1,6 @@
 ---
 title: Uso de una clave GPG para cifrar datos
-description: Obtenga información sobre cómo exportar datos con una clave GPG instalada en el Panel de control de Campaign.
+description: Obtenga información sobre cómo exportar datos con una clave GPG instalada en el Panel de control.
 feature: Control Panel
 kt: 5793
 thumbnail: 36399.jpg
@@ -19,7 +19,7 @@ ht-degree: 91%
 
 # Uso de una clave GPG para cifrar datos
 
-Obtenga información sobre cómo exportar datos con una clave GPG instalada en el Panel de control de Campaign
+Obtenga información sobre cómo exportar datos mediante una clave GPG instalada en el Panel de control
 
 ## Adobe Campaign Standard
 

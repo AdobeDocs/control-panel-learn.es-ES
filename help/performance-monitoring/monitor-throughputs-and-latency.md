@@ -26,7 +26,7 @@ Obtenga información sobre cómo monitorizar el rendimiento de entrega y las lat
 
 ## Recursos adicionales
 
-* [Documentación del Panel de control de Campaign sobre la monitorización del rendimiento y la latencia](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=es#)
+* [Documentación del Panel de control sobre la monitorización del rendimiento y la latencia](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=es#)
 * [Paneles de entrega OOTB](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=es)
 * [Informes de mensajería transaccional de acceso a OOTB (solo la versión 7 de Campaign)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=es)
 * [Prácticas recomendadas sobre entregas](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=es)

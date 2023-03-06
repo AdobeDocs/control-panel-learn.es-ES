@@ -1,6 +1,6 @@
 ---
 title: Generación de una clave SSH
-description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
+description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control.
 feature: Control Panel
 kt: 2923
 thumbnail: 27259.jpg
@@ -19,7 +19,7 @@ ht-degree: 82%
 
 # Generación de una clave SSH
 
-Debe poder generar una clave SSH para poder agregarla al Panel de control de Campaign.
+Debe poder generar una clave SSH para añadirla a la Panel de control de Campaign.
 
 ## Acceso a la administración del SFTP con el panel de control de Campaign
 
@@ -32,6 +32,6 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 
 ## Cómo generar una clave SSH
 
-Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
+Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)

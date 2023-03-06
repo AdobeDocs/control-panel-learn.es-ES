@@ -1,15 +1,15 @@
 ---
 user-guide-title: Tutoriales del Panel de control de Adobe Campaign
-user-guide-description: Aprenda a monitorizar los recursos clave de las instancias de Adobe Campaign y a realizar tareas administrativas en el Panel de control de Campaign.
-breadcrumb-title: Tutoriales del Panel de control de Campaign
+user-guide-description: Aprenda a monitorizar los activos clave de las instancias de Adobe Campaign y realizar tareas administrativas en el Panel de control.
+breadcrumb-title: Tutoriales del Panel de control
 index: true
 feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 # Panel de control de Adobe Campaign: tutoriales {#tutorials}
 
-+ [Panel de control de Campaign](/help/control-panel-overview.md)
-+ [Introducción al Panel de control de Campaign](/help/get-started-with-control-panel.md)
-+ [Panel de control de Campaign para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)
++ [Panel de control](/help/control-panel-overview.md)
++ [Introducción al Panel de control](/help/get-started-with-control-panel.md)
++ [Panel de control para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/sftp-management/monitor-server-capacity.md)
    + [Incluir en la lista de permitidos rangos de IP](/help/sftp-management/allowlist-ip-range.md)
@@ -42,4 +42,4 @@ ht-degree: 100%
    + [Monitorización de bases de datos](/help/performance-monitoring/monitor-databases.md)
    + [Monitorización de flujos de trabajo](/help/performance-monitoring/monitor-workflows.md)
    + [Monitorización de rendimiento y latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Solución de problemas del Panel de control de Campaign](/help/trouble-shooting.md)
++ [Solución de problemas del Panel de control](/help/trouble-shooting.md)

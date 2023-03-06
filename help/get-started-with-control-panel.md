@@ -1,6 +1,6 @@
 ---
-title: Introducción al Panel de control de Campaign
-description: Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con este.
+title: Introducción al Panel de control
+description: Obtenga información sobre cómo acceder al Panel de control y cuáles son los requisitos previos para poder trabajar con este.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas de gestión, como administrar el almacenamiento [!DNL SFTP] por instancia, o las claves [!DNL GPG], los [!UICONTROL subdomains] y los [!UICONTROL certificates].
 
-Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con este.
+Este artículo explica cómo acceder al Panel de control y cuáles son los requisitos previos para poder trabajar con este.
 
 ## Acceso [!UICONTROL Control Panel]
 
-Para acceder al Panel de control de Campaign, vaya al inicio de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acceder al Panel de control, vaya al inicio de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -59,4 +59,4 @@ En el siguiente vídeo se explica cómo añadir un administrador a una instancia
 
 [Más información](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel) acerca de la administración de permisos.
 
-Consulte el [Centro de ayuda del Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) para obtener recursos adicionales.
+Consulte el [Centro de ayuda del Panel de control](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es) para obtener recursos adicionales.
