@@ -1,6 +1,6 @@
 ---
 title: Añadir certificados SSL
-description: Obtenga información sobre cómo añadir certificados SSL para proteger los subdominios.
+description: Aprenda a añadir certificados SSL para proteger los subdominios.
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 62%
@@ -36,11 +36,11 @@ Para añadir los certificados SSL se requieren tres pasos:
 
 ### 1. Generar solicitudes de firma de certificado.
 
-Se requiere la solicitud de firma de certificado (CSR) para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
+La solicitud de firma de certificado (CSR) es necesaria para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
 
 En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el panel de control de Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
 *Generar solicitudes de firma de certificado (2:36 min)*
 
@@ -58,7 +58,7 @@ En el siguiente vídeo se describe cómo generar una solicitud de firma de certi
 
 ### 2. Comprar certificados SSL
 
-Después de obtener el CSR, debe adquirir el certificado SSL de una autoridad de certificación aprobada por su organización.
+Después de obtener la CSR, debe adquirir el certificado SSL de una entidad emisora de certificados aprobada por su organización.
 
 ### 3. Instalar certificados SSL
 
@@ -66,7 +66,7 @@ Una vez obtenido el certificado SSL, debe instalarse para los subdominios que pl
 
 El siguiente vídeo explica cómo instalar los certificados SSL en [!UICONTROL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
 
 *Instalar certificados SSL (1:25 min)*
 
