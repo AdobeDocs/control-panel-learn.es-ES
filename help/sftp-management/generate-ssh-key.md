@@ -19,7 +19,7 @@ ht-degree: 82%
 
 # Generación de una clave SSH
 
-Debe poder generar una clave SSH para poder agregarla al Panel de control de Campaign.
+Debe poder generar una clave SSH para añadirla a la Panel de control de Campaign.
 
 ## Acceso a la administración del SFTP con el panel de control de Campaign
 
