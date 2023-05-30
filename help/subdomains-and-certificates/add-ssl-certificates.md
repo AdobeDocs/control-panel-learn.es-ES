@@ -1,6 +1,6 @@
 ---
-title: Añadir certificados SSL
-description: Obtenga información sobre cómo añadir certificados SSL para proteger los subdominios.
+title: Adición de certificados SSL
+description: Aprenda añadir certificados SSL para proteger subdominios.
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# Añadir certificados SSL
+# Adición de certificados SSL
 
 Adobe Campaign [!UICONTROL Control Panel] le permite añadir certificados SSL para proteger sus subdominios.
 
@@ -36,9 +36,9 @@ Para añadir los certificados SSL se requieren tres pasos:
 
 ### 1. Generar solicitudes de firma de certificado.
 
-Se requiere la solicitud de firma de certificado (CSR) para la compra de un certificado SSL. Debe generarse para la instancia y los subdominios que planea proteger.
+Se requiere la solicitud de firma de certificado (CSR) para la compra de un certificado SSL. Es necesario que se genere para la instancia y los subdominios que planea proteger.
 
-En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el panel de control de Campaign.
+En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el Panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
@@ -54,15 +54,15 @@ En el siguiente vídeo se describe cómo generar una solicitud de firma de certi
 >
 >![Descargar CSR](/help/assets/download-csr.gif)
 >
->Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) para obtener más información.
+>Consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=es) para obtener más información.
 
 ### 2. Comprar certificados SSL
 
-Después de obtener el CSR, debe adquirir el certificado SSL de una autoridad de certificación aprobada por su organización.
+Después de obtener el CSR, debe adquirir el certificado SSL de una autoridad certificadora aprobada por su organización.
 
 ### 3. Instalar certificados SSL
 
-Una vez obtenido el certificado SSL, debe instalarse para los subdominios que planea proteger.
+Una vez que haya obtenido el certificado SSL, debe instalarlo para los subdominios que planea proteger.
 
 El siguiente vídeo explica cómo instalar los certificados SSL en [!UICONTROL Control Panel].
 
