@@ -2,7 +2,7 @@
 title: Introducción al Panel de control
 description: Obtenga información sobre cómo acceder al Panel de control y cuáles son los requisitos previos para poder trabajar con este.
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
@@ -33,10 +33,10 @@ Para acceder al Panel de control, vaya al inicio de Experience Cloud: [https://e
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
-   o
+  o
 * **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]tarjeta**
 
-   o
+  o
 
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
