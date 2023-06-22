@@ -3,7 +3,7 @@ title: Monitorización de la capacidad del servidor
 description: Obtenga información sobre cómo monitorizar y administrar su almacenamiento SFTP por instancia y añadir direcciones IP a listas de permitidos.
 feature: Control Panel
 audience: administrator
-kt: 3266
+jira: KT-3266
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Para acceder a la administración de subdominios en [!UICONTROL Control Panel], 
 
 * [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **[!UICONTROL Subdomains & Certificates]** tarjeta
 
-   o
+  o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Monitorizar la capacidad del servidor, [!UICONTROL allowlist] las direcciones IP y añadir claves SSH
