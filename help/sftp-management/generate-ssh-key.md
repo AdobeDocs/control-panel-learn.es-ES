@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 82%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 
@@ -34,4 +34,4 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 
 Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}

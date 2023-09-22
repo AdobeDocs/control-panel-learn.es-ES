@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,6 @@ o
 
 Obtenga información sobre cómo añadir un rango de IP a las listas de permitidos de instancias de Adobe Campaign y cómo quitarlo mediante el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
 
 Para obtener más información sobre la lista de IP permitidas, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=es).
