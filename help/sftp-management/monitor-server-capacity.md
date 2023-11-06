@@ -13,8 +13,8 @@ level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 97%
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -22,16 +22,16 @@ ht-degree: 97%
 
 El panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia.
 
-## Acceso [!UICONTROL Control Panel] a la administración de subdominios
+## Acceso a la administración del subdominio con el [!UICONTROL panel de control de Campaign]
 
-Para acceder a la administración de subdominios en [!UICONTROL Control Panel], vaya a:
+Para acceder a la administración de subdominios en el [!UICONTROL panel de control de Campaign], vaya a:
 
-* [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **[!UICONTROL Subdomains & Certificates]** tarjeta
+* [Inicio de Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Selector de soluciones]: tarjeta de [!UICONTROL Campaign] > **[!UICONTROL Panel de control]** > tarjeta de **[!UICONTROL Subdominios y certificados]**
 
   o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitorizar la capacidad del servidor, [!UICONTROL allowlist] las direcciones IP y añadir claves SSH
+## Monitorización de la capacidad del servidor, inclusión de direcciones IP a [!UICONTROL listas de permitidos] y adición de claves SSH
 
 Obtenga información sobre cómo monitorizar la capacidad de almacenamiento de sus servidores SFTP.
 

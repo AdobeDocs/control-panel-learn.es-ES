@@ -11,12 +11,12 @@ level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 98%
+source-wordcount: '336'
+ht-degree: 100%
 
 ---
 
-# Solución de problemas [!UICONTROL Control Panel]
+# Solución de problemas del [!UICONTROL Panel de control]
 
 ## Inicio de sesión y página de inicio
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 **Qué hacer:**
 el usuario debe localizar su identificador de organización de IMS (xxx). El administrador debe añadir el usuario al Perfil de productos “Campaign-xxx-Admins” para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
-### Síntoma: los vínculos de la página principal de Experience Cloud para acceder a [!UICONTROL Control Panel] no aparecen para un usuario.
+### Síntoma: los vínculos de la página principal de Experience Cloud para acceder al [!UICONTROL Panel de control] no aparecen para un usuario.
 
 **Causa:**
 Los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administradores/Admin_.
@@ -33,7 +33,7 @@ Los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfi
 **Qué hacer:**
 el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
-### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
+### Síntoma: una instancia no aparece en la lista del [!UICONTROL Panel de control]
 
 **Causa:**
 Es muy probable que el usuario deba añadirse como *usuario* al Perfil de productos _Campaign-xxx-Administradores/Admin_ para la instancia que falta.
@@ -49,18 +49,18 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo [!UICONTROL Control panel] (1:03 min)*
+*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizar el [!UICONTROL Panel de control] (01:03 min)*
 
 ### Documentación útil
 
 * [Descubra el panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
-* [Administración de permisos para [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Administración de permisos en el [!UICONTROL Panel de control]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
 
 ## Establecimiento de la conexión con el servidor SFTP (cliente o API)
 
 La conexión a los servidores SFTP requiere lo siguiente:
 
-* [!UICONTROL Allow listing] la dirección IP desde la que se está conectando al servidor SFTP.
+* [!UICONTROL Permite incluir en la lista de permitidos] la dirección IP desde la que se conecta al servidor SFTP
 * Par de claves públicas/privadas que debe registrarse con Adobe Campaign
 * Para conectarse directamente al servidor SFTP, también necesitará el software de cliente SFTP
 
