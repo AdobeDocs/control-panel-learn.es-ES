@@ -29,7 +29,7 @@ ht-degree: 100%
 + Subdominios y certificados {#subdomains-and-certificates}
    + [Delegación completa de subdominios](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [Delegación de subdominios mediante CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
-   + [Añadir certificados SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
+   + [Adición de certificados SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Administración de registros TXT de Google](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Configuración de instancias {#instance-settings}
    + [Incluir en la lista de permitidos direcciones IP](/help/instance-settings/allowlist-ip-adresses.md)
