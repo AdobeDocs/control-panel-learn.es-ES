@@ -12,9 +12,9 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 87%
 >[!CAUTION]
 > Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es#v7-restrictions)
 
-[!UICONTROL Panel de control de Campaign] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas de gestión, como administrar [!DNL SFTP] almacenamiento por instancia, administrar [!DNL GPG] claves, o [!UICONTROL subdominios] y [!UICONTROL certificados].
+El [!UICONTROL Panel de control] permite a los administradores de Adobe Campaign monitorizar los recursos clave y realizar tareas de gestión, como administrar el almacenamiento [!DNL SFTP] por instancia, las claves [!DNL GPG], o los [!UICONTROL subdominios] y los [!UICONTROL certificados].
 
 Este artículo explica cómo acceder al Panel de control y cuáles son los requisitos previos para poder trabajar con este.
 
