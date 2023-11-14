@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
 # Generación de una clave SSH
 
-Debe poder generar una clave SSH para añadirla a la Panel de control de Campaign.
+Debe poder generar una clave SSH para añadirla al Panel de control de Campaign.
 
 ## Acceso a la administración del SFTP con el panel de control de Campaign
 
