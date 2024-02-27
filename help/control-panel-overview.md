@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # Información general del Panel de control
 
 El Panel de control de Adobe Campaign permite a los administradores de Adobe Campaign monitorizar los recursos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
-
-<div id="whats-new-section">
-
-## Novedades
-
-* **[Panel de control para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)**
-  *Obtenga información sobre cómo habilitar el Panel de control para los modelos de alojamiento híbridos de Adobe Campaign, acceder al Panel de control y desbloquear funciones clave.*
-
-* **[Monitorización de flujos de trabajo](/help/performance-monitoring/monitor-workflows.md)**
-  *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde realizar la configuración del flujo de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
-
-* **[Monitorización de rendimiento y latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
-
-Consulte las [Notas de la versión](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=es) para obtener más información sobre las últimas versiones del producto.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
