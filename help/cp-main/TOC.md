@@ -9,14 +9,14 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Tutoriales del Panel de control de Campaign de Adobe Campaign {#tutorials}
+# Tutoriales del Panel de control de Adobe Campaign {#tutorials}
 
 + [Tutoriales del Panel de control](/help/control-panel-overview.md)
 + [Introducción al Panel de control](/help/get-started-with-control-panel.md)
