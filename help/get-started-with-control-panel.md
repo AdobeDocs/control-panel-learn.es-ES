@@ -12,13 +12,13 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '222'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 97%
 
 ---
 
-# Introducción a [!UICONTROL Panel de control] {#control-panel}
+# Introducción al [!UICONTROL Panel de control de Campaign] {#control-panel}
 
 >[!CAUTION]
 > Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es#v7-restrictions)
