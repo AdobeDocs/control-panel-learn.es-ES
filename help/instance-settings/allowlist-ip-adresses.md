@@ -36,6 +36,6 @@ o
 
 Obtenga información sobre cómo añadir un rango de IP a las listas de permitidos de instancias de Adobe Campaign y cómo quitarlo mediante el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31621?learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre la lista de IP permitidas, consulte la [documentación detallada del producto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=es).

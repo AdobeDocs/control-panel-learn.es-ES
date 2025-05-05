@@ -24,4 +24,4 @@ Para conectarse a un servidor, ya sea a través de una aplicación de cliente o 
 
 Aprenda a añadir un rango de direcciones IP a una lista de permitidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444638?learn=on&captions=spa){transcript=true}

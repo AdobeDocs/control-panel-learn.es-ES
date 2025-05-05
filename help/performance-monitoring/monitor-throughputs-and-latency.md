@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444740/?learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

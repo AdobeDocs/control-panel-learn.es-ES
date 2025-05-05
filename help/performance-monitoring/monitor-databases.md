@@ -24,6 +24,6 @@ Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se alm
 
 Aprenda a monitorizar el uso de la base de datos de sus instancias con [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448843?learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre la monitorización de bases de datos, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=es).

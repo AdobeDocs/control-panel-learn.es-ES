@@ -48,14 +48,14 @@ Antes de comenzar, complete los siguientes requisitos previos:
 
 El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34929?learn=on&captions=spa){transcript=true}
 
 ### Derechos de administrador
 
 Se requieren derechos de administrador para acceder al [!UICONTROL Panel de control].
 En el siguiente vídeo se explica cómo añadir un administrador a una instancia de Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34797?learn=on&captions=spa){transcript=true}
 
 [Más información](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel) acerca de la administración de permisos.
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 El panel de control de Campaign le permite cifrar datos procedentes de la instancia de Adobe Campaign. Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia [!DNL Campaign] específica para el cifrado de datos salientes.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327883?learn=on&captions=spa){transcript=true}

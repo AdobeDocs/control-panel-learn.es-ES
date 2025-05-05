@@ -24,8 +24,8 @@ Aprenda cómo crear una clave pública, importarla e instalarla en una instancia
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41351?learn=on&captions=spa){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41361?learn=on&captions=spa){transcript=true}

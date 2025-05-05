@@ -34,4 +34,4 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 
 Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34796?learn=on&captions=spa){transcript=true}

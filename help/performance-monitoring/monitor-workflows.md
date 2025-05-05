@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411085/?learn=on&captions=spa){transcript=true}
 
 Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=es) y las [prácticas recomendadas del flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=es).

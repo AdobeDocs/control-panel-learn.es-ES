@@ -23,4 +23,4 @@ Para poder empezar a enviar correos electrónicos o publicar páginas de aterriz
 
 Aprenda a configurar y enviar un subdominio mediante CNAME en el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450127?learn=on&captions=spa){transcript=true}

@@ -23,8 +23,8 @@ Obtenga información sobre cómo exportar datos mediante una clave GPG instalada
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41337?learn=on&captions=spa){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41330?learn=on&captions=spa){transcript=true}

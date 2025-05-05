@@ -38,4 +38,4 @@ La conexión a los servidores SFTP requiere lo siguiente:
 
 En este vídeo se explica cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el panel de control de Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34795?learn=on&captions=spa){transcript=true}
