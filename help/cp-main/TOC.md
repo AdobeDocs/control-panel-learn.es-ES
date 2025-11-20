@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 + [Tutoriales del Panel de control](/help/control-panel-overview.md)
 + [Introducción al Panel de control](/help/get-started-with-control-panel.md)
 + [Panel de control para modelos de alojamiento híbridos](/help/control-panel-for-hybrid-hosting-models.md)
-+ Administración SFTP {#sftp-management}
++ Administración de SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/sftp-management/monitor-server-capacity.md)
    + [Incluir en la lista de permitidos rangos de IP](/help/sftp-management/allowlist-ip-range.md)
    + [Generación de una clave SSH](/help/sftp-management/generate-ssh-key.md)
@@ -39,7 +39,7 @@ ht-degree: 100%
       + [Generación e instalación de claves GPG para el cifrado de datos](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Uso de una clave GPG para cifrar datos](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Descifrado de datos](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ Supervisión del rendimiento {#performance-monitoring}
++ Monitorización del rendimiento {#performance-monitoring}
    + [Monitorización de bases de datos](/help/performance-monitoring/monitor-databases.md)
    + [Monitorización de flujos de trabajo](/help/performance-monitoring/monitor-workflows.md)
    + [Monitorización de rendimiento y latencia](/help/performance-monitoring/monitor-throughputs-and-latency.md)
