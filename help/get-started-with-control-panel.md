@@ -12,16 +12,16 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '228'
+ht-degree: 100%
 
 ---
 
-# Introducción al [!UICONTROL Panel de control de Campaign] {#control-panel}
+# Introducción al [!UICONTROL Panel de control] {#control-panel}
 
 >[!CAUTION]
-> Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es#v7-restrictions)
+> Para la versión 7 de Campaign, se aplican restricciones de implementación. [Más información](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es#v7-restrictions)
 
 El [!UICONTROL Panel de control] permite a los administradores de Adobe Campaign monitorizar los recursos clave y realizar tareas de gestión, como administrar el almacenamiento [!DNL SFTP] por instancia, las claves [!DNL GPG], o los [!UICONTROL subdominios] y los [!UICONTROL certificados].
 
@@ -48,14 +48,14 @@ Antes de comenzar, complete los siguientes requisitos previos:
 
 El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
->[!VIDEO](https://video.tv.adobe.com/v/34929?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### Derechos de administrador
 
 Se requieren derechos de administrador para acceder al [!UICONTROL Panel de control].
 En el siguiente vídeo se explica cómo añadir un administrador a una instancia de Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/34797?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [Más información](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel) acerca de la administración de permisos.
 

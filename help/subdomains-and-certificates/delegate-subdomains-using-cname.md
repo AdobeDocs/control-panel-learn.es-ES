@@ -11,16 +11,16 @@ role: Admin
 level: Experienced
 exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '56'
+workflow-type: ht
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
 # Delegación de subdominios mediante CNAME
 
-Para poder empezar a enviar correos electrónicos o publicar páginas de aterrizaje con Adobe Campaign, debe configurar un nuevo subdominio.
+Para poder empezar a enviar correos electrónicos o publicar páginas de destino con Adobe Campaign, debe configurar un nuevo subdominio.
 
 Aprenda a configurar y enviar un subdominio mediante CNAME en el Panel de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450127?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}

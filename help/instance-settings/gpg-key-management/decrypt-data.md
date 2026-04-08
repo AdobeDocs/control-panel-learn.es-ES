@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '80'
+workflow-type: ht
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,8 @@ Aprenda cómo crear una clave pública, importarla e instalarla en una instancia
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/41351?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/41361?learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
