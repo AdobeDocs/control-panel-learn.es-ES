@@ -28,4 +28,4 @@ Para garantizar altas tasas de mensajes en bandeja de entrada y bajas tasas de s
 
 Aprenda cómo añadir los registros de verificación del sitio [!UICONTROL TXT de Google] a todos los subdominios utilizados para enviar correos electrónicos a las direcciones de [!DNL GMAIL] con el [!UICONTROL Panel de control de Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36778?captions=spa&learn=on){transcript=true}

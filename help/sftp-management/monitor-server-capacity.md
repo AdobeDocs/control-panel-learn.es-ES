@@ -40,4 +40,4 @@ Para acceder a la administración de subdominios en el [!UICONTROL panel de cont
 
 Obtenga información sobre cómo monitorizar la capacidad de almacenamiento de sus servidores SFTP.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329489?captions=spa&learn=on){transcript=true}

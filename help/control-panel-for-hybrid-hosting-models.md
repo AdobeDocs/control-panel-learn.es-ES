@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo habilitar el Panel de control para los modelos de alojamiento híbridos de Adobe Campaign, acceder al Panel de control y desbloquear funciones clave.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411073?captions=spa&learn=on){transcript=true}
 
 Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=es).
