@@ -16,9 +16,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 189
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ El Panel de control le permite configurar nuevas conexiones a las instancias med
 
 Para acceder a la administración de subdominios en panel de control de Campaign, vaya a:
 
-* [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > tarjeta de **[!UICONTROL Panel de control de Campaign]** > tarjeta de **Configuración de instancias**
+* [Inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > tarjeta de **[!UICONTROL Panel de control]** > tarjeta de **Configuración de instancias**
 o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
