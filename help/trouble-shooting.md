@@ -10,14 +10,12 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 353
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -33,26 +31,26 @@ El usuario debe localizar su ID de organización de IMS (xxx). El administrador 
 ### Síntoma: los vínculos de la página principal de Experience Cloud para acceder al [!UICONTROL Panel de control] no aparecen para un usuario.
 
 **Causa:**
-Los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administradores/Admin_.
+Los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administrators/Admin_.
 
 **Qué hacer:**
-El administrador debe agregar el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
+El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: una instancia no aparece en la lista del [!UICONTROL Panel de control]
 
 **Causa:**
-Es muy probable que el usuario deba añadirse como *usuario* Perfil de producto _Campaign-xxx-Administradores/Admin_ para la instancia que falta
+Es muy probable que el usuario deba añadirse como *usuario* al Perfil de productos _Campaign-xxx-Administrators/Admin_ para la instancia que falta
 
 **Qué hacer:**
-El administrador debe agregar el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario”.
+El administrador debe añadir al usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario”.
 
 ### Vídeos útiles
 
->[!VIDEO](https://video.tv.adobe.com/v/34929?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 *ID de organización IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34797?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 *Cómo añadir un administrador a los administradores de perfil de productos para poder usar el [!UICONTROL Panel de control] (01:03 min)*
 

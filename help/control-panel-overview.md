@@ -12,14 +12,12 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +44,7 @@ El Panel de control de Adobe Campaign permite a los administradores de Adobe Cam
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegación de subdominios a Adobe Campaign (vídeo)</strong>
-    </a>
-    </div>
+    <strong>Delegación de subdominios en Adobe Campaign (vídeo)</strong></div>
     <p>
     <em>Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign.</em>
     <p>
@@ -59,9 +55,7 @@ El Panel de control de Adobe Campaign permite a los administradores de Adobe Cam
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Administración de registros TXT de Google(vídeos)</strong>
-    </a>
-    </div>
+    <strong>Administración de registros TXT de Google (vídeos)</strong></div>
     <p>
     <em> Aprenda cómo añadir los registros de verificación del sitio TXT de Google a todos los subdominios utilizados para enviar correos electrónicos a las direcciones de GMAIL con el Panel de control de Campaign.</em>
     <p>
@@ -72,9 +66,7 @@ El Panel de control de Adobe Campaign permite a los administradores de Adobe Cam
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Conectando con un servidor SFTP</strong>
-    </a>
-    </div>
+    <strong>Conexión a un servidor SFTP</strong></div>
     <p>
     <em>Aprenda cómo conectar con el servidor SFTP con una aplicación SFTP de cliente, utilizando las claves almacenadas en el Panel de control. </em>
     <p>
